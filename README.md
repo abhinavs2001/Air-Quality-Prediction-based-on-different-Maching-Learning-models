@@ -1,4 +1,4 @@
-# Air Quality Prediction based on different Maching Learning models
+## Air Quality Prediction based on different Maching Learning models
 
 # DESCRIPTION:
 Air is what keeps humans alive. Monitoring it and understanding its quality is of immense importance to our well-being. Therefore in this project I tried to find out  the air quality of a particular place using different parameters. The dataset contains concentrations of NO2, NOx, NH3, CO, SO2, O3, PM2.5 and PM10 at daily level of various stations across multiple cities in India.
@@ -26,5 +26,5 @@ Python, Machine Learning Algorithms.
 Numpy, Pandas, Matplotlib, sklearn
 
 
-CONCLUSION
+# CONCLUSION
 By comparison, I concluded that the classification accuracy can be improved by introducing the statistical features. By comparing the classification performances of SVM, Logistic Regression, RF, Linear Regression, we can find that RF performs best on the dataset.
