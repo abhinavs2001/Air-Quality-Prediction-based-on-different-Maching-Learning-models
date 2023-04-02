@@ -26,4 +26,4 @@ Python, Machine Learning Algorithms.
 Numpy, Pandas, Matplotlib, sklearn
 
 ## CONCLUSION
-By comparison, I concluded that the classification accuracy can be improved by introducing the statistical features. By comparing the classification performances of SVM, Logistic Regression, RF, Linear Regression, we can find that RF performs best on the dataset.
+By comparison, I concluded that the classification accuracy can be improved by introducing the statistical features. By comparing the classification performances of SVM, Logistic Regression, RF, Linear Regression, we can find that SVM performs best on the dataset.
